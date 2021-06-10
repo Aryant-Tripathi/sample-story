@@ -1,1 +1,6 @@
 so this was the chapter 2
+
+git remote add origin https://github.com/Aryant-Tripathi/sample-story.git
+git branch -M main
+git push -u origin main
+hbhhjvgv
